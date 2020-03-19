@@ -1,0 +1,8 @@
+('rajkamal', '74486948', 'male', '6546564', 'googlepay', 1)
+ ('rajkamal3tv4t3', '744869483', 'male3t', '65465643rvb', 'googlepayver', 1)
+ ('gefdjew', 'cb adjkv kfc', 'cadkvc', 'cadksvk vc', 'sbkc', 1)
+ ('gefdjew', 'cb adjkv kfc', 'cadkvc', 'cadksvk vc', 'sbkc', 1)
+ ('gefdjew', 'cb adjkv kfc', 'cadkvc', 'cadksvk vc', 'sbkc', 1)
+ ('gefdjew', 'cb adjkv kfc', 'cadkvc', 'cadksvk vc', 'sbkc', 1)
+ ('rajkamal', '645465', 'male', '545', 'paytm', 1)
+ 
